@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_b149460a16a4f65a8431636bf16860e01881cd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_b2a954ef6c302154fc77ad53a4703fa3c4818199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6d3ee57bf7ee56ae9341f525fd6c27d7fd09eeb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_975fc9cebd27176333ed63da1d0f37f48c767f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4bbd32a76853bd5162526942c0c947a550bc0ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a46360b47d696fba95efd8bb7c871336ccbe6b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_336eb8d550d17747ac4c2e2879cac4295a9d6e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ddcb538cd776c409443b996d15d2a66249fef0e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_22d7d23a73904df52962f3d78e4bda462186ea95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_1f42c1ea6c3a8d337c8c45b0cbda4ba1b6f45f92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5367d943cdd59391c9ff43a0d71514dcca20fe29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5cc6d75fbd66c1b8cb93dacf65ec34f6221ac917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e759eff29ab7f64d3b4ca6c3beb0db0bad8b218e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.2.1_4f8e5e146266c3a298711e7838b36e8561977bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_50dfc8b0a3f3fe2983bd166b349557f113095799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9627688d4eeaeed0986d348639470ba8aaa37c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_2ded92b48ec3656129fbe68768fd8801b9cc74ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2d4e32a59103f226b0a77d90b0a3f5d25bd66867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_8ad75833d61ac5190337c54adfe0ef239df1f03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_5dbe6644da118b93c4dcd63bb57597cedb71e4fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.1_d5df6ff579f52f21476771fa3831a12893584422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_4cb5e1ac779b660c255d994d96c0a96c1d29637c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_baa12e9ef3dcb6f52ef28bb5202be7e1b6219fd4.jar" />
+    </item>
+
+</items>
