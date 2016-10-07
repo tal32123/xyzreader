@@ -1738,6 +1738,48 @@
                         "endOffset": 18445
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 18450,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 18616
+                },
+                "from": {
+                    "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 18621,
+                    "endLine": 258,
+                    "endColumn": 12,
+                    "endOffset": 18744
+                },
+                "from": {
+                    "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1001
+                    }
+                }
             }
         ]
     }

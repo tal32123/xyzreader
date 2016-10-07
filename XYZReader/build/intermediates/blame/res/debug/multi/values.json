@@ -9268,7 +9268,7 @@
                     "startOffset": 120097,
                     "endLine": 1637,
                     "endColumn": 12,
-                    "endOffset": 120221
+                    "endOffset": 120220
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values\\styles.xml",
@@ -9278,7 +9278,7 @@
                         "startOffset": 802,
                         "endLine": 25,
                         "endColumn": 12,
-                        "endOffset": 926
+                        "endOffset": 925
                     }
                 }
             },
@@ -9286,9 +9286,9 @@
                 "to": {
                     "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 120226,
+                    "startOffset": 120225,
                     "endColumn": 79,
-                    "endOffset": 120301
+                    "endOffset": 120300
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9305,9 +9305,9 @@
                 "to": {
                     "startLine": 1639,
                     "startColumn": 4,
-                    "startOffset": 120306,
+                    "startOffset": 120305,
                     "endColumn": 99,
-                    "endOffset": 120401
+                    "endOffset": 120400
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9324,9 +9324,9 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 120406,
+                    "startOffset": 120405,
                     "endColumn": 89,
-                    "endOffset": 120491
+                    "endOffset": 120490
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9343,9 +9343,9 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 120496,
+                    "startOffset": 120495,
                     "endColumn": 109,
-                    "endOffset": 120601
+                    "endOffset": 120600
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9362,9 +9362,9 @@
                 "to": {
                     "startLine": 1642,
                     "startColumn": 4,
-                    "startOffset": 120606,
+                    "startOffset": 120605,
                     "endColumn": 93,
-                    "endOffset": 120695
+                    "endOffset": 120694
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9381,9 +9381,9 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 120700,
+                    "startOffset": 120699,
                     "endColumn": 105,
-                    "endOffset": 120801
+                    "endOffset": 120800
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9400,9 +9400,9 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 120806,
+                    "startOffset": 120805,
                     "endColumn": 91,
-                    "endOffset": 120893
+                    "endOffset": 120892
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9419,10 +9419,10 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 120898,
+                    "startOffset": 120897,
                     "endLine": 1646,
                     "endColumn": 12,
-                    "endOffset": 120993
+                    "endOffset": 120992
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9440,10 +9440,10 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 120998,
+                    "startOffset": 120997,
                     "endLine": 1648,
                     "endColumn": 12,
-                    "endOffset": 121105
+                    "endOffset": 121104
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9461,10 +9461,10 @@
                 "to": {
                     "startLine": 1649,
                     "startColumn": 4,
-                    "startOffset": 121110,
+                    "startOffset": 121109,
                     "endLine": 1650,
                     "endColumn": 12,
-                    "endOffset": 121219
+                    "endOffset": 121218
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9482,10 +9482,10 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 121224,
+                    "startOffset": 121223,
                     "endLine": 1652,
                     "endColumn": 12,
-                    "endOffset": 121335
+                    "endOffset": 121334
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9503,10 +9503,10 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 121340,
+                    "startOffset": 121339,
                     "endLine": 1654,
                     "endColumn": 12,
-                    "endOffset": 121451
+                    "endOffset": 121450
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9524,9 +9524,9 @@
                 "to": {
                     "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 121456,
+                    "startOffset": 121455,
                     "endColumn": 93,
-                    "endOffset": 121545
+                    "endOffset": 121544
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9543,9 +9543,9 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 121550,
+                    "startOffset": 121549,
                     "endColumn": 113,
-                    "endOffset": 121659
+                    "endOffset": 121658
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9562,9 +9562,9 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 121664,
+                    "startOffset": 121663,
                     "endColumn": 111,
-                    "endOffset": 121771
+                    "endOffset": 121770
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9581,10 +9581,10 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 121776,
+                    "startOffset": 121775,
                     "endLine": 1659,
                     "endColumn": 12,
-                    "endOffset": 121873
+                    "endOffset": 121872
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9602,10 +9602,10 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 121878,
+                    "startOffset": 121877,
                     "endLine": 1661,
                     "endColumn": 12,
-                    "endOffset": 121993
+                    "endOffset": 121992
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9623,10 +9623,10 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 121998,
+                    "startOffset": 121997,
                     "endLine": 1663,
                     "endColumn": 12,
-                    "endOffset": 122115
+                    "endOffset": 122114
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9644,9 +9644,9 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 122120,
+                    "startOffset": 122119,
                     "endColumn": 81,
-                    "endOffset": 122197
+                    "endOffset": 122196
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9663,9 +9663,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 122202,
+                    "startOffset": 122201,
                     "endColumn": 103,
-                    "endOffset": 122301
+                    "endOffset": 122300
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9682,9 +9682,9 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 122306,
+                    "startOffset": 122305,
                     "endColumn": 119,
-                    "endOffset": 122421
+                    "endOffset": 122420
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9701,9 +9701,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 122426,
+                    "startOffset": 122425,
                     "endColumn": 125,
-                    "endOffset": 122547
+                    "endOffset": 122546
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9720,9 +9720,9 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 122552,
+                    "startOffset": 122551,
                     "endColumn": 97,
-                    "endOffset": 122645
+                    "endOffset": 122644
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9739,9 +9739,9 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 122650,
+                    "startOffset": 122649,
                     "endColumn": 93,
-                    "endOffset": 122739
+                    "endOffset": 122738
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9758,9 +9758,9 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 122744,
+                    "startOffset": 122743,
                     "endColumn": 87,
-                    "endOffset": 122827
+                    "endOffset": 122826
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9777,9 +9777,9 @@
                 "to": {
                     "startLine": 1671,
                     "startColumn": 4,
-                    "startOffset": 122832,
+                    "startOffset": 122831,
                     "endColumn": 111,
-                    "endOffset": 122939
+                    "endOffset": 122938
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9796,9 +9796,9 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 122944,
+                    "startOffset": 122943,
                     "endColumn": 115,
-                    "endOffset": 123055
+                    "endOffset": 123054
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9815,9 +9815,9 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 123060,
+                    "startOffset": 123059,
                     "endColumn": 121,
-                    "endOffset": 123177
+                    "endOffset": 123176
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9834,9 +9834,9 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 123182,
+                    "startOffset": 123181,
                     "endColumn": 111,
-                    "endOffset": 123289
+                    "endOffset": 123288
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9853,10 +9853,10 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 123294,
+                    "startOffset": 123293,
                     "endLine": 1677,
                     "endColumn": 12,
-                    "endOffset": 123464
+                    "endOffset": 123463
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9874,9 +9874,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 123469,
+                    "startOffset": 123468,
                     "endColumn": 115,
-                    "endOffset": 123580
+                    "endOffset": 123579
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9893,9 +9893,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 123585,
+                    "startOffset": 123584,
                     "endColumn": 85,
-                    "endOffset": 123666
+                    "endOffset": 123665
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9912,9 +9912,9 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 123671,
+                    "startOffset": 123670,
                     "endColumn": 91,
-                    "endOffset": 123758
+                    "endOffset": 123757
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9931,10 +9931,10 @@
                 "to": {
                     "startLine": 1681,
                     "startColumn": 4,
-                    "startOffset": 123763,
+                    "startOffset": 123762,
                     "endLine": 1682,
                     "endColumn": 12,
-                    "endOffset": 123870
+                    "endOffset": 123869
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9952,10 +9952,10 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 123875,
+                    "startOffset": 123874,
                     "endLine": 1684,
                     "endColumn": 12,
-                    "endOffset": 123994
+                    "endOffset": 123993
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9973,9 +9973,9 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 123999,
+                    "startOffset": 123998,
                     "endColumn": 66,
-                    "endOffset": 124061
+                    "endOffset": 124060
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -9992,10 +9992,10 @@
                 "to": {
                     "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 124066,
+                    "startOffset": 124065,
                     "endLine": 1687,
                     "endColumn": 12,
-                    "endOffset": 124187
+                    "endOffset": 124186
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10013,9 +10013,9 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 124192,
+                    "startOffset": 124191,
                     "endColumn": 67,
-                    "endOffset": 124255
+                    "endOffset": 124254
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10032,10 +10032,10 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 124260,
+                    "startOffset": 124259,
                     "endLine": 1690,
                     "endColumn": 12,
-                    "endOffset": 124383
+                    "endOffset": 124382
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10053,10 +10053,10 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 124388,
+                    "startOffset": 124387,
                     "endLine": 1692,
                     "endColumn": 12,
-                    "endOffset": 124527
+                    "endOffset": 124526
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10074,10 +10074,10 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 124532,
+                    "startOffset": 124531,
                     "endLine": 1694,
                     "endColumn": 12,
-                    "endOffset": 124655
+                    "endOffset": 124654
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10095,9 +10095,9 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 124660,
+                    "startOffset": 124659,
                     "endColumn": 68,
-                    "endOffset": 124724
+                    "endOffset": 124723
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10114,9 +10114,9 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 124729,
+                    "startOffset": 124728,
                     "endColumn": 94,
-                    "endOffset": 124819
+                    "endOffset": 124818
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10133,9 +10133,9 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 124824,
+                    "startOffset": 124823,
                     "endColumn": 114,
-                    "endOffset": 124934
+                    "endOffset": 124933
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10152,9 +10152,9 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 124939,
+                    "startOffset": 124938,
                     "endColumn": 112,
-                    "endOffset": 125047
+                    "endOffset": 125046
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10171,9 +10171,9 @@
                 "to": {
                     "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 125052,
+                    "startOffset": 125051,
                     "endColumn": 98,
-                    "endOffset": 125146
+                    "endOffset": 125145
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10190,9 +10190,9 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 125151,
+                    "startOffset": 125150,
                     "endColumn": 108,
-                    "endOffset": 125255
+                    "endOffset": 125254
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10209,9 +10209,9 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 125260,
+                    "startOffset": 125259,
                     "endColumn": 110,
-                    "endOffset": 125366
+                    "endOffset": 125365
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10228,9 +10228,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 125371,
+                    "startOffset": 125370,
                     "endColumn": 110,
-                    "endOffset": 125477
+                    "endOffset": 125476
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10247,9 +10247,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 125482,
+                    "startOffset": 125481,
                     "endColumn": 100,
-                    "endOffset": 125578
+                    "endOffset": 125577
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10266,9 +10266,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 125583,
+                    "startOffset": 125582,
                     "endColumn": 104,
-                    "endOffset": 125683
+                    "endOffset": 125682
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10285,9 +10285,9 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 125688,
+                    "startOffset": 125687,
                     "endColumn": 99,
-                    "endOffset": 125783
+                    "endOffset": 125782
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10304,10 +10304,10 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 125788,
+                    "startOffset": 125787,
                     "endLine": 1707,
                     "endColumn": 12,
-                    "endOffset": 125913
+                    "endOffset": 125912
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10325,9 +10325,9 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 125918,
+                    "startOffset": 125917,
                     "endColumn": 90,
-                    "endOffset": 126004
+                    "endOffset": 126003
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10344,9 +10344,9 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 126009,
+                    "startOffset": 126008,
                     "endColumn": 122,
-                    "endOffset": 126127
+                    "endOffset": 126126
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10363,9 +10363,9 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 126132,
+                    "startOffset": 126131,
                     "endColumn": 93,
-                    "endOffset": 126221
+                    "endOffset": 126220
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10382,10 +10382,10 @@
                 "to": {
                     "startLine": 1711,
                     "startColumn": 4,
-                    "startOffset": 126226,
+                    "startOffset": 126225,
                     "endLine": 1712,
                     "endColumn": 12,
-                    "endOffset": 126333
+                    "endOffset": 126332
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10403,9 +10403,9 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 126338,
+                    "startOffset": 126337,
                     "endColumn": 85,
-                    "endOffset": 126419
+                    "endOffset": 126418
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10422,9 +10422,9 @@
                 "to": {
                     "startLine": 1714,
                     "startColumn": 4,
-                    "startOffset": 126424,
+                    "startOffset": 126423,
                     "endColumn": 103,
-                    "endOffset": 126523
+                    "endOffset": 126522
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10441,9 +10441,9 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 126528,
+                    "startOffset": 126527,
                     "endColumn": 95,
-                    "endOffset": 126619
+                    "endOffset": 126618
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10460,9 +10460,9 @@
                 "to": {
                     "startLine": 1716,
                     "startColumn": 4,
-                    "startOffset": 126624,
+                    "startOffset": 126623,
                     "endColumn": 87,
-                    "endOffset": 126707
+                    "endOffset": 126706
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10479,10 +10479,10 @@
                 "to": {
                     "startLine": 1717,
                     "startColumn": 4,
-                    "startOffset": 126712,
+                    "startOffset": 126711,
                     "endLine": 1718,
                     "endColumn": 12,
-                    "endOffset": 126825
+                    "endOffset": 126824
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10500,10 +10500,10 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 126830,
+                    "startOffset": 126829,
                     "endLine": 1720,
                     "endColumn": 12,
-                    "endOffset": 126929
+                    "endOffset": 126928
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10521,10 +10521,10 @@
                 "to": {
                     "startLine": 1721,
                     "startColumn": 4,
-                    "startOffset": 126934,
+                    "startOffset": 126933,
                     "endLine": 1722,
                     "endColumn": 12,
-                    "endOffset": 127033
+                    "endOffset": 127032
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10542,10 +10542,10 @@
                 "to": {
                     "startLine": 1723,
                     "startColumn": 4,
-                    "startOffset": 127038,
+                    "startOffset": 127037,
                     "endLine": 1724,
                     "endColumn": 12,
-                    "endOffset": 127159
+                    "endOffset": 127158
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10563,9 +10563,9 @@
                 "to": {
                     "startLine": 1725,
                     "startColumn": 4,
-                    "startOffset": 127164,
+                    "startOffset": 127163,
                     "endColumn": 87,
-                    "endOffset": 127247
+                    "endOffset": 127246
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10582,9 +10582,9 @@
                 "to": {
                     "startLine": 1726,
                     "startColumn": 4,
-                    "startOffset": 127252,
+                    "startOffset": 127251,
                     "endColumn": 107,
-                    "endOffset": 127355
+                    "endOffset": 127354
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10601,9 +10601,9 @@
                 "to": {
                     "startLine": 1727,
                     "startColumn": 4,
-                    "startOffset": 127360,
+                    "startOffset": 127359,
                     "endColumn": 99,
-                    "endOffset": 127455
+                    "endOffset": 127454
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10620,9 +10620,9 @@
                 "to": {
                     "startLine": 1728,
                     "startColumn": 4,
-                    "startOffset": 127460,
+                    "startOffset": 127459,
                     "endColumn": 89,
-                    "endOffset": 127545
+                    "endOffset": 127544
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10639,9 +10639,9 @@
                 "to": {
                     "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 127550,
+                    "startOffset": 127549,
                     "endColumn": 109,
-                    "endOffset": 127655
+                    "endOffset": 127654
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10658,9 +10658,9 @@
                 "to": {
                     "startLine": 1730,
                     "startColumn": 4,
-                    "startOffset": 127660,
+                    "startOffset": 127659,
                     "endColumn": 83,
-                    "endOffset": 127739
+                    "endOffset": 127738
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10677,9 +10677,9 @@
                 "to": {
                     "startLine": 1731,
                     "startColumn": 4,
-                    "startOffset": 127744,
+                    "startOffset": 127743,
                     "endColumn": 101,
-                    "endOffset": 127841
+                    "endOffset": 127840
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10696,9 +10696,9 @@
                 "to": {
                     "startLine": 1732,
                     "startColumn": 4,
-                    "startOffset": 127846,
+                    "startOffset": 127845,
                     "endColumn": 83,
-                    "endOffset": 127925
+                    "endOffset": 127924
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10715,9 +10715,9 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 127930,
+                    "startOffset": 127929,
                     "endColumn": 53,
-                    "endOffset": 127979
+                    "endOffset": 127978
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10734,9 +10734,9 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 127984,
+                    "startOffset": 127983,
                     "endColumn": 63,
-                    "endOffset": 128043
+                    "endOffset": 128042
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10753,9 +10753,9 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 128048,
+                    "startOffset": 128047,
                     "endColumn": 105,
-                    "endOffset": 128149
+                    "endOffset": 128148
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10772,9 +10772,9 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 128154,
+                    "startOffset": 128153,
                     "endColumn": 109,
-                    "endOffset": 128259
+                    "endOffset": 128258
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10791,9 +10791,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 128264,
+                    "startOffset": 128263,
                     "endColumn": 83,
-                    "endOffset": 128343
+                    "endOffset": 128342
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",
@@ -10810,9 +10810,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 128348,
+                    "startOffset": 128347,
                     "endColumn": 119,
-                    "endOffset": 128463
+                    "endOffset": 128462
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values\\values.xml",

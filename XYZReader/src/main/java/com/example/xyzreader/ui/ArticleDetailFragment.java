@@ -10,8 +10,10 @@ import android.graphics.Color;
 import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.ShareCompat;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.graphics.Palette;
 import android.text.Html;
 import android.text.format.DateUtils;
@@ -178,8 +180,10 @@ public class ArticleDetailFragment extends Fragment implements
         }
 
         TextView titleView = (TextView) mRootView.findViewById(R.id.article_title);
+        titleView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Rosario-Regular.ttf"));
         TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
         bylineView.setMovementMethod(new LinkMovementMethod());
+        bylineView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Rosario-Regular.ttf"));
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
         bodyView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Rosario-Regular.ttf"));
 
@@ -204,10 +208,22 @@ public class ArticleDetailFragment extends Fragment implements
                             Bitmap bitmap = imageContainer.getBitmap();
                             if (bitmap != null) {
                                 Palette p = Palette.generate(bitmap, 12);
-                                mMutedColor = p.getDarkMutedColor(0xFF333333);
+//                                mMutedColor = p.getDarkMutedColor(0xFF333333);
+                                int theme_primary_color;
+                                if(Build.VERSION.SDK_INT > 23 ){
+                                    theme_primary_color = ContextCompat.getColor(getContext(), R.color.theme_primary);
+                                }
+                                else {
+                                    theme_primary_color = getResources().getColor(R.color.theme_primary);
+                                }
                                 mPhotoView.setImageBitmap(imageContainer.getBitmap());
+
+
+
                                 mRootView.findViewById(R.id.meta_bar)
-                                        .setBackgroundColor(mMutedColor);
+//                                        .setBackgroundColor(mMutedColor);
+                                .setBackgroundColor(theme_primary_color);
+
                                 updateStatusBar();
                             }
                         }
@@ -265,4 +281,5 @@ public class ArticleDetailFragment extends Fragment implements
                 ? (int) mPhotoContainerView.getTranslationY() + mPhotoView.getHeight() - mScrollY
                 : mPhotoView.getHeight() - mScrollY;
     }
+
 }
