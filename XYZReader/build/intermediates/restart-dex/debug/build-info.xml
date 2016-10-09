@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    api-level="23"
-    density="xxhdpi"
+    api-level="22"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="91774143927533"
+    timestamp="183772420522168"
     token="1674740733346444975"
     verifier="COMPATIBLE" >
 
@@ -26,14 +26,14 @@
         type="RESOURCES" />
 
     <build
-        timestamp="53188621934275"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="183689939680071"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="91774143927533"
+        timestamp="183772420522168"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"

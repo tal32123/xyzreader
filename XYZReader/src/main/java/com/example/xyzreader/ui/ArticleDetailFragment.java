@@ -216,6 +216,8 @@ public class ArticleDetailFragment extends Fragment implements
                                 else {
                                     theme_primary_color = getResources().getColor(R.color.theme_primary);
                                 }
+
+
                                 mPhotoView.setImageBitmap(imageContainer.getBitmap());
 
 
