@@ -1,4 +1,4 @@
-#Wed Oct 19 04:02:42 CDT 2016
+#Wed Oct 19 04:31:45 CDT 2016
 base.0=C\:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f2836f66d6316857eb5bfcc2a4db7ad2b849fa08
 renamed.1=classes2.dex
 renamed.0=classes.dex
