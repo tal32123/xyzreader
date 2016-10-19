@@ -6,6 +6,7 @@ ehthumbs.db
 Desktop.ini
 .idea
 build
+.gradle
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
