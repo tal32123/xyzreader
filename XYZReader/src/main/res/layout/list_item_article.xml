@@ -25,7 +25,6 @@
         <TextView
             android:id="@+id/article_title"
             style="@style/TextAppearance.AppCompat.Subhead"
-            android:fontFamily="sans-serif-condensed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"
@@ -39,7 +38,6 @@
         <TextView
             android:id="@+id/article_subtitle"
             style="@style/TextAppearance.AppCompat.Body1"
-            android:fontFamily="sans-serif-condensed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"
@@ -47,7 +45,6 @@
             android:paddingBottom="16dp"
             android:textColor="@android:color/secondary_text_dark"
             android:maxLines="1"
-            android:singleLine="true"
             android:ellipsize="end" />
     </LinearLayout>
 

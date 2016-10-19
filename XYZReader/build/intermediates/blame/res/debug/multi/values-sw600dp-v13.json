@@ -330,27 +330,8 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1227,
-                    "endColumn": 52,
-                    "endOffset": 1275
-                },
-                "from": {
-                    "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 90,
-                        "endColumn": 52,
-                        "endOffset": 138
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1280,
                     "endColumn": 54,
-                    "endOffset": 1330
+                    "endOffset": 1277
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -365,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1335,
+                    "startOffset": 1282,
                     "endColumn": 56,
-                    "endOffset": 1387
+                    "endOffset": 1334
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -384,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1392,
+                    "startOffset": 1339,
                     "endColumn": 65,
-                    "endOffset": 1453
+                    "endOffset": 1400
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -403,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1458,
+                    "startOffset": 1405,
                     "endColumn": 58,
-                    "endOffset": 1512
+                    "endOffset": 1459
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -422,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1517,
+                    "startOffset": 1464,
                     "endColumn": 51,
-                    "endOffset": 1564
+                    "endOffset": 1511
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
@@ -441,68 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1569,
-                    "endColumn": 53,
-                    "endOffset": 1618
-                },
-                "from": {
-                    "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 53,
-                        "endOffset": 85
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1623,
-                    "endColumn": 41,
-                    "endOffset": 1660
-                },
-                "from": {
-                    "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 238,
-                        "endColumn": 41,
-                        "endOffset": 275
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1665,
-                    "endColumn": 94,
-                    "endOffset": 1755
-                },
-                "from": {
-                    "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 143,
-                        "endColumn": 94,
-                        "endOffset": 233
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 1760,
+                    "startOffset": 1516,
                     "endColumn": 62,
-                    "endOffset": 1818
+                    "endOffset": 1574
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
@@ -517,12 +441,12 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1823,
-                    "endLine": 32,
+                    "startOffset": 1579,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 2000
+                    "endOffset": 1756
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
