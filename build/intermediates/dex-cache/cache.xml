@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="bcd0546a3bb5b3a323a58f4f980c45ce1fe0545b">
+        sha1="0285e9f3cdf96316aa7256b05abac44edb853e06">
         <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_17c2cbe333d35933832960df405e759cd21121e4\classes.dex" />
     </item>
     <item
@@ -66,21 +66,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e759eff29ab7f64d3b4ca6c3beb0db0bad8b218e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a46360b47d696fba95efd8bb7c871336ccbe6b08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e759eff29ab7f64d3b4ca6c3beb0db0bad8b218e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="9628005efc5ecfb28045111b003a101a8e433898">
+        sha1="93ac21a4669e63640c8e8d9a9d99af8fba009ea7">
         <dex dex="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f2836f66d6316857eb5bfcc2a4db7ad2b849fa08\classes.dex" />
     </item>
     <item
