@@ -2751,10 +2751,10 @@ containing a value of this type.
         public static final int alertTitle=0x7f0c004c;
         public static final int all=0x7f0c0032;
         public static final int always=0x7f0c0036;
-        public static final int article_body=0x7f0c0085;
-        public static final int article_byline=0x7f0c0081;
+        public static final int article_body=0x7f0c007f;
+        public static final int article_byline=0x7f0c0085;
         public static final int article_subtitle=0x7f0c0088;
-        public static final int article_title=0x7f0c0080;
+        public static final int article_title=0x7f0c0084;
         public static final int auto=0x7f0c0021;
         public static final int beginning=0x7f0c0034;
         public static final int bottom=0x7f0c0022;
@@ -2768,7 +2768,7 @@ containing a value of this type.
         public static final int clip_horizontal=0x7f0c002e;
         public static final int clip_vertical=0x7f0c002f;
         public static final int collapseActionView=0x7f0c0037;
-        public static final int collapsing_toolbar_layout=0x7f0c0082;
+        public static final int collapsing_toolbar_layout=0x7f0c0080;
         public static final int contentPanel=0x7f0c004d;
         public static final int custom=0x7f0c0053;
         public static final int customPanel=0x7f0c0052;
@@ -2806,7 +2806,7 @@ containing a value of this type.
         public static final int listMode=0x7f0c000b;
         public static final int list_item=0x7f0c0044;
         public static final int media_actions=0x7f0c008c;
-        public static final int meta_bar=0x7f0c007f;
+        public static final int meta_bar=0x7f0c0083;
         public static final int middle=0x7f0c0035;
         public static final int mini=0x7f0c0033;
         public static final int multiply=0x7f0c001b;
@@ -2817,8 +2817,8 @@ containing a value of this type.
         public static final int pager=0x7f0c006d;
         public static final int parallax=0x7f0c002c;
         public static final int parentPanel=0x7f0c0049;
-        public static final int photo=0x7f0c0084;
-        public static final int photo_container=0x7f0c0083;
+        public static final int photo=0x7f0c0082;
+        public static final int photo_container=0x7f0c0081;
         public static final int pin=0x7f0c002d;
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
