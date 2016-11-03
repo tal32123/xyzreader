@@ -4,8 +4,9 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-.idea
-build
+.idea/
+build/
+.gradle/
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
