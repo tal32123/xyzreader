@@ -212,11 +212,11 @@
         "source": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_article_detail.xml",
-        "source": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\layout\\activity_article_detail.xml"
-    },
-    {
         "merged": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_article_detail.xml",
+        "source": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\layout\\activity_article_detail.xml"
     }
 ]
