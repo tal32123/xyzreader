@@ -105,16 +105,27 @@
 
         </com.example.xyzreader.ui.MaxWidthLinearLayout>
         <android.support.v7.widget.Toolbar
+            android:id="@+id/up_container"
+            android:background="@android:color/transparent"
             android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            app:layout_collapseMode="pin"
+            >
+        <ImageButton
+            android:id="@+id/action_up"
+            android:layout_width="wrap_content"
             android:layout_height="?actionBarSize"
             android:background="?selectableItemBackgroundBorderless"
             android:contentDescription="@string/up"
-            app:layout_collapseMode="pin">
-            <!--android:src="@drawable/ic_arrow_back"-->
-            <!--android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">-->
+            app:layout_collapseMode="pin"
+            android:layout_margin="@dimen/action_up_margin"
+            android:layout_gravity="left"
+            android:src="@drawable/ic_arrow_back"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
 
 
+        </ImageButton>
         </android.support.v7.widget.Toolbar>
 
     </android.support.design.widget.CollapsingToolbarLayout>
