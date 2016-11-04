@@ -4,9 +4,8 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="62975224497729"
-    token="1674740733346444975"
-    verifier="COMPATIBLE" >
+    timestamp="63280186682495"
+    token="1674740733346444975" >
 
     <task
         name="javac"
@@ -20,10 +19,6 @@
     <task
         name="verifier"
         duration="0" />
-
-    <artifact
-        location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
 
     <build
         timestamp="60019064065058"
@@ -43,11 +38,12 @@
             type="DEX" />
     </build>
     <build
-        timestamp="62975224497729"
+        timestamp="63266683324674"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
     </build>
+    <build timestamp="63280186682495" />
 
 </instant-run>
