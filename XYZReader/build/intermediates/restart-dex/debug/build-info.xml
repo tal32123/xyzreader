@@ -4,7 +4,7 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="9198825229382"
+    timestamp="13098994938084"
     token="1674740733346444975"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,24 +22,14 @@
         duration="0" />
 
     <build
-        timestamp="7885454216584"
+        timestamp="12174437827085"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="8952721067612"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="9198825229382"
+        timestamp="13098994938084"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
