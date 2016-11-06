@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    api-level="24"
-    density="420dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
     format="8"
-    plugin-version="2.2.0"
-    timestamp="63280186682495"
-    token="1674740733346444975" >
+    plugin-version="2.2.2"
+    timestamp="61030515980043"
+    token="1674740733346444975"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -20,30 +22,23 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
     <build
-        timestamp="60019064065058"
+        timestamp="60358892614758"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="61376815101204"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="63266683324674"
+        timestamp="61030515980043"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
     </build>
-    <build timestamp="63280186682495" />
 
 </instant-run>

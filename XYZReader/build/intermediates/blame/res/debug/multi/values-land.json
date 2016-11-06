@@ -83,8 +83,8 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 328,
-                    "endColumn": 57,
-                    "endOffset": 381
+                    "endColumn": 56,
+                    "endOffset": 380
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml",
@@ -92,8 +92,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 88,
-                        "endColumn": 57,
-                        "endOffset": 141
+                        "endColumn": 56,
+                        "endOffset": 140
                     }
                 }
             },
@@ -101,9 +101,9 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 386,
+                    "startOffset": 385,
                     "endColumn": 51,
-                    "endOffset": 433
+                    "endOffset": 432
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml",
@@ -120,10 +120,10 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 438,
+                    "startOffset": 437,
                     "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 615
+                    "endOffset": 614
                 },
                 "from": {
                     "file": "C:\\Users\\Tal\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-land\\values-land.xml",
