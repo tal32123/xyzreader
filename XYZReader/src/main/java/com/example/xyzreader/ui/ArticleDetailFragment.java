@@ -251,6 +251,7 @@ public class ArticleDetailFragment extends Fragment implements
 
 
                                 mRootView.findViewById(R.id.meta_bar)
+                                        //Uncomment if changing meta bar to change color in relation to photo color
 //                                        .setBackgroundColor(mMutedColor);
                                 .setBackgroundColor(theme_primary_color);
 
