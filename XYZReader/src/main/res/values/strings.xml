@@ -8,5 +8,8 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="error_reading_item_detail_cursor">Error reading item detail cursor</string>
+    <string name="share_article_part_1">I thought you would like the article \"</string>
+    <string name="share_article_part_2">\" on XYZReader!</string>
 
 </resources>

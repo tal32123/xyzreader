@@ -5,26 +5,29 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="94339014268043"
+    timestamp="94652939882295"
     token="1674740733346444975"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="5381" />
+        duration="254" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="448" />
     <task
         name="instant-run-transform"
-        duration="342" />
+        duration="68" />
     <task
         name="verifier"
-        duration="48" />
+        duration="8" />
 
     <artifact
-        location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         timestamp="94339014268043"
@@ -32,6 +35,16 @@
         <artifact
             location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="94652939882295"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\Tal\Documents\GitHub\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

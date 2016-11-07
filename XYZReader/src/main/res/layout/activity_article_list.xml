@@ -29,7 +29,7 @@
 
 
 
-  <include layout="@layout/appbar"></include>
+  <include layout="@layout/appbar"/>
 
 
 
