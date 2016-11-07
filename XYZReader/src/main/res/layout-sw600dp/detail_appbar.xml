@@ -9,7 +9,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fitsSystemWindows="true"
-        app:layout_scrollFlags="scroll|exitUntilCollapsed">
+        app:layout_scrollFlags="scroll|exitUntilCollapsed"
+        app:contentScrim="@color/theme_primary">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -39,7 +40,6 @@
             android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
             android:textColor="#fff"
             android:textStyle="bold"
-            android:textSize="@dimen/detail_title_text_size"
             />
 
         <TextView
